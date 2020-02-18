@@ -23,4 +23,3 @@ public class SearchProduct extends TestBase {
 }
 
 
-
